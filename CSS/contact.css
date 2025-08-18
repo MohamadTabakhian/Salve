@@ -111,12 +111,12 @@ font-size: 15px;
     margin-top: 30px;
   }
 
-  .box i {
+  .box a {
     font-size: 18px;
     margin-top: 10px;
   }
 
-  .box i a {
+  .box a {
     font-size: 20px;
     color: #0E0E0E;
   }
@@ -296,7 +296,7 @@ footer {
   font-size: 15px;
 }
 
-.box i a {
+.box a {
   font-size: 15px;
 }
 
