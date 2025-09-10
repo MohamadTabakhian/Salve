@@ -13,7 +13,7 @@ body {
   background-image: url(../Logo/2.png);
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 100%;
+  background-size: 80%;
 }
 
 /* Header */
@@ -108,8 +108,8 @@ font-size: 15px;
 
 .box p {
   font-size: 18px;
-  margin: 10px 30px;
-  padding: 10px 0;
+  margin: 0px 30px;
+  padding: 20px 0;
   text-justify: inter-word;
   text-align: justify;
 }
