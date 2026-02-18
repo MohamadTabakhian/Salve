@@ -8,7 +8,7 @@
 }
 
 body {
-  font-family: 'Montserra', sans-serif;
+  font-family: 'Montserrat', sans-serif !important;
   background-color: transparent;
 }
 
@@ -682,7 +682,7 @@ footer .address a {
 
 }
 /* Responsive layout - makes a one column-layout instead of a two-column layout */
-@media (max-width: 800px) {
+@media (max-width: 950px) {
   .flex-item-right, .flex-item-left {
     flex: 100%;
   }
@@ -692,7 +692,7 @@ footer .address a {
 }
 
 /* FAQ Responsive */
-@media (max-width: 600px) {
+@media (max-width: 950px) {
 header h1 {
   font-size: 1.8rem;
 }
@@ -707,7 +707,7 @@ header h1 {
 }
 
 /* Footer */
-@media (max-width: 768px) {
+@media (max-width: 950px) {
 .footer-container {
     flex-direction: column;
     align-items: center;
@@ -722,13 +722,13 @@ header h1 {
     margin: 0 10px;
 }
 }
-@media (max-width: 800px) {
+@media (max-width: 950px) {
   .flex-item-right, .flex-item-left {
     flex: 100%;
   }
 }
 
-@media (max-width: 800px) {
+@media (max-width: 950px) {
   .flex-step {
     flex-direction: column;
   }
